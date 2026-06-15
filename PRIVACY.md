@@ -1,42 +1,53 @@
 # Privacy Policy
 
-## Data Protection
+Last updated: June 2026
 
-CE Compliance Agent is designed to keep account details, certificate files, and renewal records private.
+CE-Cop Agent is a lead-response assistant for real estate teams. This policy explains the types of information the product may collect during pilots and how that information is intended to be used.
 
-## What We Collect
+## Information We May Collect
 
-- Account information (name, email, profession, license details)
-- Certificate files and completion records
-- Renewal cycle and requirement information
-- Payment information (processed securely)
+CE-Cop Agent may collect:
 
-## How We Use Your Data
+- business contact information, such as name, email address, phone number, company, and role
+- lead details submitted through forms, messages, or pilot workflows
+- buyer or seller intent, timeline, location preferences, and preferred follow-up method
+- operational notes needed to route a lead to the correct team member
+- payment or billing information, when applicable, through third-party payment processors
 
-- To support account setup and management
-- To track CE compliance and send reminders
-- To match payments to account registrations
-- To provide customer service and technical support
-- To improve the product
+## How We Use Information
 
-## Data Security
+Information is used to:
 
-- Encrypted storage for all sensitive data
-- Access controls and authentication
-- Regular security audits
-- No data sharing with third parties
-- Certificates are not sold to course providers
+- respond to real estate inquiries quickly
+- qualify buyer and seller intent
+- route leads to the appropriate real estate team or contact
+- provide support, onboarding, and pilot communication
+- improve the product and user experience
+- maintain billing and account records
 
-## Your Rights
+## Data Minimization
 
-You can request to:
-- Access your data
-- Correct inaccurate information
-- Delete your account and associated data
-- Export your data
+CE-Cop Agent is intended for ordinary real estate lead-response workflows. Users should not submit sensitive financial records, medical information, government ID numbers, or other unnecessary sensitive data.
 
-Contact webnestam@gmail.com for data requests.
+## Sharing
+
+We do not sell lead data. Information may be shared only when needed to operate the service, support a pilot customer, comply with law, or route a lead to the real estate team that requested the workflow.
+
+## Security
+
+Reasonable technical and organizational safeguards are used to protect information. No internet-connected system can be guaranteed to be completely secure, so pilot customers should use the service only for appropriate lead-response data.
+
+## Your Choices
+
+You may request to:
+
+- access information associated with you
+- correct inaccurate information
+- delete information where legally and operationally appropriate
+- ask questions about data handling
+
+Contact: webnestam@gmail.com
 
 ## Changes
 
-We may update this policy. Changes will be posted here with an updated date.
+This policy may be updated as the product develops. Updates will be posted in this file.
