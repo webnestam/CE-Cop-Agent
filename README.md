@@ -1,118 +1,138 @@
-# CE-Cop Agent
+<p align="center">
+  <a href="https://webnestam.github.io/CE-Cop-Agent">
+    <img src="logo.png" alt="CE-Cop Agent logo" width="112" />
+  </a>
+</p>
 
-**24/7 lead response and qualification assistant for real estate teams.**
+<h1 align="center">CE-Cop Agent</h1>
 
-[Live site](https://webnestam.github.io/CE-Cop-Agent) · [Contact](mailto:webnestam@gmail.com)
+<p align="center">
+  <strong>24/7 lead response and qualification assistant for real estate teams.</strong>
+</p>
 
-CE-Cop Agent helps real estate teams respond to buyer and seller inquiries while the lead is still warm. The product is designed for small and mid-sized teams that already pay for traffic, listings, portals, social media, or website forms, but do not always have a human available to answer instantly.
+<p align="center">
+  <a href="https://webnestam.github.io/CE-Cop-Agent"><strong>Live Site</strong></a>
+  ·
+  <a href="docs/LEAD_RESPONSE_AUDIT.md"><strong>Lead Response Audit</strong></a>
+  ·
+  <a href="docs/PILOT_OVERVIEW.md"><strong>Pilot Overview</strong></a>
+  ·
+  <a href="mailto:webnestam@gmail.com"><strong>Contact</strong></a>
+</p>
 
-The core idea is simple:
+<p align="center">
+  <img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-live-2D7D46?style=for-the-badge&logo=github" />
+  <img alt="Product Status" src="https://img.shields.io/badge/status-pilot%20ready-5E81F4?style=for-the-badge" />
+  <img alt="Market" src="https://img.shields.io/badge/market-real%20estate-F0B90B?style=for-the-badge" />
+</p>
 
-> You already paid for the lead. CE-Cop Agent helps make sure someone follows up fast enough.
+---
 
-## Why This Exists
+<p align="center">
+  <em>You already paid for the lead. CE-Cop Agent helps make sure someone follows up fast enough.</em>
+</p>
 
-Real estate teams lose opportunities when website, Instagram, portal, and ad leads wait too long for a reply. CE-Cop Agent is being built as a practical front-line assistant that can:
+## Product Snapshot
 
-- answer new inquiries quickly
-- ask basic buyer or seller qualification questions
-- capture contact details and intent
-- route qualified prospects to the right team member
-- reduce manual follow-up gaps after hours and on weekends
-
-## Current Status
-
-This repository currently contains the public landing page and product materials for the CE-Cop Agent pilot.
-
-The live site is intentionally lightweight: it explains the offer, gives prospects a place to evaluate the product, and supports founder-led pilot conversations. The automation backend is being developed around real-world lead-response workflows, not generic chatbot demos.
+| What it helps with | Why it matters |
+| --- | --- |
+| Instant first response | New buyer and seller inquiries are warm for minutes, not days. |
+| Basic qualification | Capture intent, timeline, location, and preferred follow-up path before handoff. |
+| Team routing | Push qualified leads toward the right agent, team lead, or callback workflow. |
+| After-hours coverage | Reduce missed opportunities from nights, weekends, and busy showing days. |
 
 ## Built For
 
-- residential real estate teams
-- broker owners with active lead flow
-- agents running website, social, Zillow, Realtor.com, Google, or Meta lead campaigns
-- teams that need faster response without hiring another full-time assistant
+| Customer | Fit |
+| --- | --- |
+| Real estate teams | Teams with active listing, buyer, seller, and social lead flow. |
+| Broker owners | Operators who need cleaner response without adding another full-time hire. |
+| Portal/ad spenders | Teams paying for Zillow, Realtor.com, Google, Meta, or website traffic. |
+| Founder-led pilots | Teams willing to review lead quality and workflow gaps directly. |
 
-## Product Scope
+## How The Pilot Works
 
-### Landing Page
+```text
+New lead
+  -> instant reply
+  -> buyer/seller qualification
+  -> intent + timeline summary
+  -> team handoff
+  -> human follow-up
+```
 
-- responsive static site
-- clear real estate lead-response positioning
-- lightweight JavaScript interactions
-- GitHub Pages deployment
-- no build step required
+| Step | Output |
+| --- | --- |
+| Map current lead sources | Website, social, portal, ad, and manual intake paths. |
+| Identify response gaps | Where leads wait, get missed, or lack ownership. |
+| Configure questions | Buyer/seller intent, timeline, budget, location, and contact preference. |
+| Route qualified leads | Clear handoff summary for the right person on the team. |
+| Review weekly | Improve response quality before scaling the workflow. |
 
-### Planned Pilot Workflow
-
-- inbound lead capture from web forms or manual forwarding
-- immediate qualification questions
-- buyer/seller intent tagging
-- appointment handoff or callback request
-- simple lead-response audit for teams evaluating the product
-
-## Repository Structure
+## Repository Contents
 
 ```text
 CE-Cop-Agent/
-├── index.html              # Public landing page
-├── logo.png                # Product logo
-├── zelle_qr.jpg            # Payment QR asset used on the site
-├── README.md               # Project overview
-├── PRIVACY.md              # Privacy policy
-├── TERMS.md                # Terms of service
-├── SECURITY.md             # Security posture
+├── index.html                 # Public landing page
+├── logo.png                   # Product logo
+├── README.md                  # GitHub product overview
+├── PRIVACY.md                 # Privacy policy
+├── TERMS.md                   # Terms of service
+├── SECURITY.md                # Security posture
 └── docs/
-    ├── LEAD_RESPONSE_AUDIT.md
-    └── PILOT_OVERVIEW.md
+    ├── LEAD_RESPONSE_AUDIT.md # Discovery/audit asset for prospects
+    └── PILOT_OVERVIEW.md      # Founder-led pilot workflow
 ```
 
-## Run Locally
+## Live Demo
 
-No install is required. Open `index.html` in a browser, or run a local static server:
+The public site is hosted on GitHub Pages:
+
+<p>
+  <a href="https://webnestam.github.io/CE-Cop-Agent">
+    <img alt="Open live CE-Cop Agent site" src="https://img.shields.io/badge/Open%20Live%20Site-webnestam.github.io%2FCE--Cop--Agent-121212?style=for-the-badge" />
+  </a>
+</p>
+
+## Local Preview
+
+No install is required.
 
 ```bash
 python -m http.server 8080
 ```
 
-Then visit:
+Then open:
 
 ```text
 http://localhost:8080
 ```
 
-## Deployment
+## Trust Notes
 
-This site is deployed with GitHub Pages from the repository root.
-
-Required public files:
-
-- `index.html`
-- `logo.png`
-- `zelle_qr.jpg`
-
-## Trust And Data Handling
-
-CE-Cop Agent is being designed for business lead-response workflows. Pilot customers should not send sensitive financial, medical, or government-identification data through the system.
-
-The product should only collect the minimum lead information needed to support a real estate conversation, such as name, contact details, buying or selling intent, timeline, and preferred follow-up method.
-
-See [PRIVACY.md](PRIVACY.md), [TERMS.md](TERMS.md), and [SECURITY.md](SECURITY.md).
+- CE-Cop Agent is for ordinary business lead-response workflows.
+- It should not receive sensitive financial, medical, government ID, or unrelated personal data.
+- Human team members remain responsible for brokerage compliance, client service, and final follow-up.
+- Pilot workflows should be reviewed before use in a live brokerage environment.
 
 ## Roadmap
 
-- lead-response audit template for prospective teams
-- CRM-friendly lead summary format
-- agent notification workflow
-- appointment request handoff
-- source tracking for website, social, and portal leads
-- production backend for pilot customers
+| Area | Next |
+| --- | --- |
+| Lead audit | Sharpen the free audit into a repeatable discovery offer. |
+| Routing | Create CRM-friendly lead summaries and owner notifications. |
+| Qualification | Build source-specific buyer and seller question flows. |
+| Backend | Add production workflow support for pilot customers. |
 
 ## Contact
 
-For pilot access, questions, or feedback:
+For pilot access or questions:
 
-**webnestam@gmail.com**
+<p>
+  <a href="mailto:webnestam@gmail.com">
+    <img alt="Email webnestam@gmail.com" src="https://img.shields.io/badge/email-webnestam%40gmail.com-5E81F4?style=for-the-badge" />
+  </a>
+</p>
 
 ## License
 
