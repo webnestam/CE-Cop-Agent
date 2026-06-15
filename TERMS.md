@@ -1,70 +1,59 @@
 # Terms of Service
 
+Last updated: June 2026
+
 ## Acceptance
 
-By using CE Compliance Agent, you agree to these terms and conditions.
+By using CE-Cop Agent, participating in a pilot, or requesting a lead-response workflow, you agree to these terms.
 
 ## Service Description
 
-CE Compliance Agent is a software tool that helps track continuing education credits, manage renewal deadlines, and organize compliance records. The service is designed to assist with compliance work but does not replace your responsibility to verify requirements and submit renewals to your licensing board.
+CE-Cop Agent is a lead-response and qualification assistant for real estate teams. It is intended to help respond to new inquiries, ask basic qualification questions, and route interested buyers or sellers toward a human follow-up.
 
-## Your Responsibilities
+CE-Cop Agent does not replace licensed real estate professionals, legal advice, brokerage compliance review, or the professional judgment of the team using it.
 
-- Provide accurate license information
-- Verify CE requirements with your state licensing board
-- Complete required hours by your renewal deadline
-- Submit renewal applications and documentation as required by your board
-- Maintain current contact information in your account
+## Customer Responsibilities
 
-## Free Trial
+Customers are responsible for:
 
-- 14-day free trial with no credit card required
-- After trial ends, subscription begins unless canceled
-- Cancel anytime before trial ends to avoid charges
+- confirming that messages and workflows comply with their brokerage rules
+- reviewing lead handoffs and following up appropriately
+- providing accurate business, routing, and contact information
+- honoring applicable real estate, advertising, privacy, and communication laws
+- avoiding submission of unnecessary sensitive information
 
-## Payment
+## Pilot And Availability
 
-- Early-bird launch pricing is available for a limited time
-- Customers who enroll during launch keep their pricing for life
-- Billing is monthly or annual depending on your selection
-- All prices in USD
+CE-Cop Agent is an early-stage product. Features may change during development. Pilot access may be limited, modified, paused, or discontinued as the product is improved.
 
-## Refunds
+## Payments
 
-- Refunds available if requested within 30 days of charge
-- Active trial period cannot be refunded
+Any pilot fee, subscription, or setup fee will be communicated before payment. Unless otherwise agreed in writing, prices are in USD.
 
 ## Limitations
 
 We do not guarantee:
-- That all course providers will be listed in our database
-- That all courses will meet your specific state or board requirements
-- That automated reminders will never fail or be delayed
-- That exported reports will be accepted without modification by your board
 
-You remain solely responsible for verifying compliance with your licensing board's requirements.
+- a specific number of leads, appointments, clients, or closed transactions
+- that every lead will respond
+- that every third-party platform, form, CRM, or messaging channel will remain available
+- uninterrupted or error-free service during early pilots
+
+## Human Review
+
+Real estate teams should review important lead communications and use CE-Cop Agent as an assistant, not as the sole decision-maker in a sales or client-service process.
 
 ## Liability
 
-We are not responsible for:
-- Missed deadlines due to email or system failures
-- Courses that do not count toward your requirements
-- Fines, penalties, or license suspension
-- Any other damages arising from use or inability to use the service
-
-To the maximum extent permitted by law, our liability is limited to the amount you paid for the service.
+To the maximum extent permitted by law, CE-Cop Agent is provided without warranties, and liability is limited to the amount paid for the service giving rise to the claim.
 
 ## Termination
 
-We may terminate your account if:
-- You violate these terms
-- Payment fails and is not resolved
-- You request account deletion
-- We discontinue the service
+Access may be terminated if these terms are violated, payment fails, the service is misused, or the product is discontinued.
 
 ## Changes
 
-We may update these terms. Continued use after changes means you accept the new terms.
+These terms may be updated as the product develops. Continued use after updates means you accept the revised terms.
 
 ## Contact
 
